@@ -4,10 +4,10 @@
   "private": true,
   "homepage": "https://namewastook.github.io/ReactPhotoWall/",
   "dependencies": {
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^2.2.0",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
-    "react-scripts": "^2.1.5"
+    "react-scripts": "^5.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
